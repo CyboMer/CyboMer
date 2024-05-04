@@ -2,7 +2,7 @@
 
 I care deeply about embedded software. I'm experienced in C/C++, microcontrollers, and delivering robust implementations in aerospace and defense.
 
-![CyboMer's Stats](https://github-readme-stats.vercel.app/api?username=CyboMer&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!--![CyboMer's Stats](https://github-readme-stats.vercel.app/api?username=CyboMer&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
 ## 🚀 About Me
 - Currently in aerospace and defense industry
