@@ -1,5 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Wilmer! 👋
 
+I care deeply about embedded software. I'm experienced in C/C++, microcontrollers, and delivering robust implementations in aerospace and defense.
+
+![CyboMer's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+- Currently in aerospace and defense industry
+- Certified Scrum Product Owner
+- I contribute translations to embedded software focused repos in Spanish and French.
+- Engineer by trade, maker for fun
+
+## Tech Stack
+- C and C++
+- AVR Programming
+- Cmake
+- Xilinx FGPAs and SoCs
+- Verilog
 <!--
 **CyboMer/CyboMer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
