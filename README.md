@@ -1,6 +1,6 @@
 ### Hi there, I'm Wilmer! 👋
 
-I care deeply about embedded software. I'm experienced in C/C++, microcontrollers, and delivering robust implementations in aerospace and defense.
+I care deeply about embedded software. I'm experienced in C/C++, microcontrollers, Python and delivering robust implementations in aerospace and defense.
 
 <!--![CyboMer's Stats](https://github-readme-stats.vercel.app/api?username=CyboMer&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
@@ -12,9 +12,10 @@ I care deeply about embedded software. I'm experienced in C/C++, microcontroller
 
 ## Tech Stack
 - C and C++
+- Python
 - AVR Programming
 - Cmake
-- Xilinx FGPAs and SoCs
+- Xilinx FPGAs and SoCs
 - Verilog
 <!--
 **CyboMer/CyboMer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
